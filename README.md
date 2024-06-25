@@ -21,4 +21,5 @@ Enhancing the security of your villa and monitoring activities with CCTV cameras
 
 output
 --------------------------------------------------------
+![Screenshot 2024-06-25 121639](https://github.com/Gowri2019/smart-home-automation-task-2/assets/173767423/6230bd06-b864-48a8-805a-5bc89d49aab7)
 
